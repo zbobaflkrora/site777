@@ -1,0 +1,29 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 27 May 2021 18:14:36 at https://live-tvs.shop/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps0u0%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F Java1.1.4 -%l "en, *" https://live-tvs.shop/ -O1 "C:\Users\pc\Desktop\site777" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:22:25	Warning: 	Moved Permanently for https://live-tvs.shop/?p=42
+18:22:25	Warning: 	File has moved from https://live-tvs.shop/?p=42 to https://live-tvs.shop/?page_id=42
+18:22:55	Warning: 	Moved Permanently for https://live-tvs.shop/?p=541
+18:22:55	Warning: 	File has moved from https://live-tvs.shop/?p=541 to https://live-tvs.shop/?page_id=541
+18:23:26	Warning: 	Moved Permanently for https://live-tvs.shop/?p=367
+18:23:26	Warning: 	File has moved from https://live-tvs.shop/?p=367 to https://live-tvs.shop/?page_id=367
+18:23:58	Warning: 	Moved Permanently for https://live-tvs.shop/?p=50
+18:23:58	Warning: 	File has moved from https://live-tvs.shop/?p=50 to https://live-tvs.shop/?page_id=50
+18:24:30	Warning: 	Moved Permanently for https://live-tvs.shop/?p=48
+18:24:30	Warning: 	File has moved from https://live-tvs.shop/?p=48 to https://live-tvs.shop/?page_id=48
+18:25:01	Warning: 	Moved Permanently for https://live-tvs.shop/?p=156
+18:25:01	Warning: 	File has moved from https://live-tvs.shop/?p=156 to https://live-tvs.shop/?page_id=156
+18:25:35	Warning: 	Moved Permanently for https://live-tvs.shop/?p=146
+18:25:35	Warning: 	File has moved from https://live-tvs.shop/?p=146 to https://live-tvs.shop/?page_id=146
+18:26:06	Warning: 	Moved Permanently for https://live-tvs.shop/?p=170
+18:26:06	Warning: 	File has moved from https://live-tvs.shop/?p=170 to https://live-tvs.shop/?page_id=170
+18:26:10	Warning: 	Moved Permanently for https://live-tvs.shop/?p=174
+18:26:10	Warning: 	File has moved from https://live-tvs.shop/?p=174 to https://live-tvs.shop/?page_id=174
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 minutes 34 seconds : 137 links scanned, 128 files written (7868960 bytes overall) [4725283 bytes received at 6808 bytes/sec], 4551975 bytes transferred using HTTP compression in 75 files, ratio 29%
+(No errors, 18 warnings, 0 messages)
